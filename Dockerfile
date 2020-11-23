@@ -1,4 +1,4 @@
-FROM rhel7:latest
+FROM rhel7
 
 COPY ./run.sh /app/run.sh
 
