@@ -1,4 +1,4 @@
-FROM ubi8:latest
+FROM rhel7:latest
 
 COPY ./run.sh /app/run.sh
 
